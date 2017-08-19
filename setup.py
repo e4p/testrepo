@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='evanptestmodule',
-    version='0.1',
+    version='0.3',
     description='test module',
     author='Evan Parker',
     author_email='',
