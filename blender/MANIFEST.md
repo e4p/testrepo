@@ -1,10 +1,12 @@
-Contents:
- - filename: 21878_Realistic_Fluid_Simulation_Made_With_Cycles.zip
-   url: https://www.blendswap.com/blends/view/21878
-   license: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
- - filename: 73428_Template_for_Making_Keva_Kapla_Plank_Rigid_Body_Simulations.zip
-   url: https://www.blendswap.com/blends/view/73428
-   license: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
- - filename: 2854_Smoke_Test.zip
-   url: https://www.blendswap.com/blends/view/2854
-   license: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+directory_contents:
+
+third_party:
+ - filename: bmw27_cpu.blend
+   url: https://download.blender.org/demo/test/BMW27_2.blend.zip
+   license: CC0 (public domain)
+   attribution: Mike Pan
+
+ - filename: box_cutter.blend
+   url: https://www.blendswap.com/blends/view/87508
+   license CC BY-NC-SA 3.0 - https://creativecommons.org/licenses/by-nc-sa/3.0/
+   attribution: 3DHaupt - https://www.blendswap.com/user/3DHaupt
