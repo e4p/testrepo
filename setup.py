@@ -8,6 +8,8 @@ setup(
     author_email='',
     py_modules=['evanptestmodule'],
     license='Apache 2.0',
+    test_suite='nose.collector',
+    tests_require=['nose'],
     use_2to3=False,
     classifiers=[
         'Development Status :: 1 - Planning',
